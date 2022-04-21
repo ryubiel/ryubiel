@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/ryubiel"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryubiel&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryubiel&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=ryubiel&show_icons=true&theme=tokyonight"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryubiel&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ##
