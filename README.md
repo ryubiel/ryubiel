@@ -1,4 +1,4 @@
-### Olá!!! Bem vindo ao meu perfil, sou o Gabriel Batista
+### Olá!!! Bem vindo ao meu perfil, Me chamo Gabriel!
 
 ##
 
