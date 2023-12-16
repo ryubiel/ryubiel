@@ -2,10 +2,9 @@
 
 ##
 
-- 🛠️ Estou estágiando como suporte técnico na empresa Micromed Biotecnologia.
-- 🎓 Estou no ultimo semestre de analise e desenvolvimento de sistemas.
+- 🛠️ Analista de suporte técnico na empresa Micromed Biotecnologia.
+- 🎓 Formado analise e desenvolvimento de sistemas.
 - 🎮 Gosto de video-games.
-- 🎸 Tenho uma guitarra mas não sei tocar.
 
 ##
 
