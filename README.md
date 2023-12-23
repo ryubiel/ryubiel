@@ -5,6 +5,7 @@
 - 🛠️ Analista de suporte técnico na empresa Micromed Biotecnologia.
 - 🎓 Formado analise e desenvolvimento de sistemas.
 - 🎮 Gosto de video-games.
+- 🖨️ Sou entusiasta em impressão 3D
 
 ##
 
@@ -50,6 +51,15 @@
 
 ##
 
+- 3D:
+<div>
+  <img align="center" alt="blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+  <img align="center" alt="zbrush" height="30" width="40" src="https://www.svgrepo.com/show/508998/zbrush.svg"/>
+  <img align="center" alt="cura" height="30" width="40" src="https://static-00.iconduck.com/assets.00/cura-icon-icon-2048x2048-fvt9f2iw.png"/>
+  <img align="center" alt="prusa" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/prusa_slicer_macos_bigsur_icon_189809.png"/>
+</div>
+
+##
 - Others: 
 <div>
   <img align="center" alt="raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
