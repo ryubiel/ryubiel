@@ -3,7 +3,7 @@
 ##
 
 - 🛠️ Analista de suporte técnico na empresa Micromed Biotecnologia.
-- 🎓 Formado analise e desenvolvimento de sistemas.
+- 🎓 Formado em analise e desenvolvimento de sistemas.
 - 🎮 Gosto de video-games.
 - 🖨️ Sou entusiasta em impressão 3D
 
