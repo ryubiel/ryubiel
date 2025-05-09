@@ -2,7 +2,8 @@
 
 ##
 
-- 🛠️ Analista de suporte técnico na empresa Micromed Biotecnologia.
+- 🛠️ <s>Analista de suporte técnico na empresa Micromed Biotecnologia.</s>
+- 🛠️ Developer Trainee na e-Core.
 - 🎓 Formado em analise e desenvolvimento de sistemas.
 - 🎮 Gosto de video-games.
 - 🖨️ Sou entusiasta em impressão 3D
